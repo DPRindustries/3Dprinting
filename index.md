@@ -12,4 +12,4 @@ This page is currently a work in progress, there will eventually be:
 For updates on progress of this page or to speak to us sooner about ordering 3D parts contact us:
 [Conact Us](mailto:3Dprinting@DPRindustries.co.uk)
 
-# [3Dprinting](https://github.com/DPRindustries/3Dprinting/) is maintained by [DPRindustries](https://github.com/DPRindustries)
+_[3Dprinting](https://github.com/DPRindustries/3Dprinting/) is maintained by [DPRindustries](https://github.com/DPRindustries)_
